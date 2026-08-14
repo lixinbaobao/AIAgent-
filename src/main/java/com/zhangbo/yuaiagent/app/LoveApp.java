@@ -62,6 +62,24 @@ public class LoveApp {
     }
 
     /**
+     * AI 基础对话（支持多轮对话记忆，非流式）
+     *
+     * @param message
+     * @param chatId
+     * @return
+     */
+    public String doChat(String message, String chatId) {
+        String content = chatClient
+                .prompt()
+                .user(message)
+                .advisors(spec -> spec.param(ChatMemory.CONVERSATION_ID, chatId))
+                .call()
+                .content();
+        log.info("content: {}", content);
+        return content;
+    }
+
+    /**
      * AI 基础对话（支持多轮对话记忆，SSE 流式传输）
      *
      * @param message
