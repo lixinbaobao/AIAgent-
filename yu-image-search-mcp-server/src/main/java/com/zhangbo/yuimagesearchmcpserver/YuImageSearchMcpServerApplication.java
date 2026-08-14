@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuimagesearchmcpserver;
+package com.zhangbo.yuimagesearchmcpserver;
 
 import com.zhangbo.yuimagesearchmcpserver.tools.ImageSearchTool;
 import org.springframework.ai.tool.ToolCallbackProvider;

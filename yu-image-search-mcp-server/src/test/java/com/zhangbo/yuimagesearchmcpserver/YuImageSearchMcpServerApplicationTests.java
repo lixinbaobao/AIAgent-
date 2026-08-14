@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuimagesearchmcpserver;
+package com.zhangbo.yuimagesearchmcpserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

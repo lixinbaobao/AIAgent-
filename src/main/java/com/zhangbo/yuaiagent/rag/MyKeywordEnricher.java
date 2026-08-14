@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.rag;
+package com.zhangbo.yuaiagent.rag;
 
 import jakarta.annotation.Resource;
 import org.springframework.ai.chat.model.ChatModel;

@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.tools;
+package com.zhangbo.yuaiagent.tools;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

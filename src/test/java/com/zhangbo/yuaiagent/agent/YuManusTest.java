@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.agent;
+package com.zhangbo.yuaiagent.agent;
 
 import jakarta.annotation.Resource;
 import org.junit.jupiter.api.Assertions;

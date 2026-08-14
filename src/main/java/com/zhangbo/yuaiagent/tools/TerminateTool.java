@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.tools;
+package com.zhangbo.yuaiagent.tools;
 
 import org.springframework.ai.tool.annotation.Tool;
 

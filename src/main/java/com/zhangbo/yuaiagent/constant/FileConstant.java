@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.constant;
+package com.zhangbo.yuaiagent.constant;
 
 /**
  * 文件常量

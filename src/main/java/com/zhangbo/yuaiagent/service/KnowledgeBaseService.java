@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.service;
+package com.zhangbo.yuaiagent.service;
 
 import com.zhangbo.yuaiagent.constant.FileConstant;
 import com.zhangbo.yuaiagent.rag.MyKeywordEnricher;

@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.session;
+package com.zhangbo.yuaiagent.session;
 
 import lombok.Data;
 import java.util.ArrayList;

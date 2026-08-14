@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.rag;
+package com.zhangbo.yuaiagent.rag;
 
 import com.alibaba.cloud.ai.dashscope.api.DashScopeApi;
 import com.alibaba.cloud.ai.dashscope.rag.DashScopeDocumentRetriever;

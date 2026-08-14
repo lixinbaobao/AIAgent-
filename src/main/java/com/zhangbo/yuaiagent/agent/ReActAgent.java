@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.agent;
+package com.zhangbo.yuaiagent.agent;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.rag;
+package com.zhangbo.yuaiagent.rag;
 
 import org.springframework.ai.document.Document;
 import org.springframework.ai.transformer.splitter.TokenTextSplitter;

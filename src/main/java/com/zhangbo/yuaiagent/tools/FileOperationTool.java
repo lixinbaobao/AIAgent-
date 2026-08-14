@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.tools;
+package com.zhangbo.yuaiagent.tools;
 
 import cn.hutool.core.io.FileUtil;
 import com.zhangbo.yuaiagent.constant.FileConstant;

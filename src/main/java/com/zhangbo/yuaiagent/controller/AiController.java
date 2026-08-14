@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.controller;
+package com.zhangbo.yuaiagent.controller;
 
 import com.zhangbo.yuaiagent.agent.YuManus;
 import com.zhangbo.yuaiagent.app.LoveApp;

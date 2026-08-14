@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.agent;
+package com.zhangbo.yuaiagent.agent;
 
 import cn.hutool.core.util.StrUtil;
 import com.zhangbo.yuaiagent.agent.model.AgentState;

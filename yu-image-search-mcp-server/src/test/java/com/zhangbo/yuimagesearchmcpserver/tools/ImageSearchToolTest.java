@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuimagesearchmcpserver.tools;
+package com.zhangbo.yuimagesearchmcpserver.tools;
 
 import jakarta.annotation.Resource;
 import org.junit.jupiter.api.Assertions;

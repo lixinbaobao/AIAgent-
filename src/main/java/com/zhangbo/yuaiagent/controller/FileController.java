@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.controller;
+package com.zhangbo.yuaiagent.controller;
 
 import cn.hutool.core.util.IdUtil;
 import com.zhangbo.yuaiagent.constant.FileConstant;

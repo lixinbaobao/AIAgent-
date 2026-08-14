@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.advisor;
+package com.zhangbo.yuaiagent.advisor;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClientMessageAggregator;

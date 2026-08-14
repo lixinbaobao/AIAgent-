@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.rag;
+package com.zhangbo.yuaiagent.rag;
 
 import jakarta.annotation.Resource;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent;
+package com.zhangbo.yuaiagent;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

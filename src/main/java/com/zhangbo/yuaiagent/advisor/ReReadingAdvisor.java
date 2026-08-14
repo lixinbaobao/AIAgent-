@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.advisor;
+package com.zhangbo.yuaiagent.advisor;
 
 import org.springframework.ai.chat.client.ChatClientRequest;
 import org.springframework.ai.chat.client.ChatClientResponse;

@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.app;
+package com.zhangbo.yuaiagent.app;
 
 import com.zhangbo.yuaiagent.advisor.MyLoggerAdvisor;
 import com.zhangbo.yuaiagent.advisor.ReReadingAdvisor;

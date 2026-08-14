@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.tools;
+package com.zhangbo.yuaiagent.tools;
 
 import org.springframework.ai.support.ToolCallbacks;
 import org.springframework.ai.tool.ToolCallback;

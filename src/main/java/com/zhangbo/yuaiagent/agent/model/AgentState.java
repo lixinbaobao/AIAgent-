@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.agent.model;
+package com.zhangbo.yuaiagent.agent.model;
 
 /**
  * 代理执行状态的枚举类
