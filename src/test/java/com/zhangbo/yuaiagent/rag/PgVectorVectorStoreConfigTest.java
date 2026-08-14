@@ -1,4 +1,4 @@
-﻿package com.zhangbo.yuaiagent.rag;
+package com.zhangbo.yuaiagent.rag;
 
 import jakarta.annotation.Resource;
 import org.junit.jupiter.api.Assertions;
@@ -20,9 +20,9 @@ class PgVectorVectorStoreConfigTest {
     @Test
     void pgVectorVectorStore() {
         List<Document> documents = List.of(
-                new Document("鱼皮的编程导航有什么用？学编程啊，做项目啊", Map.of("meta1", "meta1")),
-                new Document("程序员鱼皮的原创项目教程 codefather.cn"),
-                new Document("鱼皮这小伙子比较帅气", Map.of("meta2", "meta2")));
+                new Document("测试用户的技术社区有什么用？学编程啊，做项目啊", Map.of("meta1", "meta1")),
+                new Document("测试用户的原创项目示例 example.com"),
+                new Document("测试用户这小伙子比较帅气", Map.of("meta2", "meta2")));
         // 添加文档
         pgVectorVectorStore.add(documents);
         // 相似度查询

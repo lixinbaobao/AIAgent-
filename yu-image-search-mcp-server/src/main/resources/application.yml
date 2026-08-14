@@ -2,6 +2,9 @@ spring:
   application:
     name: yu-image-search-mcp-server
   profiles:
-    active: sse
+    active: sse,local
 server:
   port: 8127
+# Pexels 图片搜索 API 配置
+pexels:
+  api-key: your-pexels-api-key
